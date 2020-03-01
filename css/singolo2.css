@@ -1,4 +1,4 @@
-font-face {
+gifont-face {
     font-family: 'Lato';
     src: url('../assets/Lato-Light.ttf');
     font-weight: 300;
@@ -133,6 +133,8 @@ img {
     display: flex;
     flex-wrap: wrap;
     margin-bottom: 56px;
+    max-height: 621px;
+    overflow: hidden;
 }
 
 
